@@ -32,11 +32,6 @@ Si es posible convertir monedas, ¿será que también puedo agregar a mi program
 
 <br>
 
-## Resultado
-
-<a href="https://github.com/HugoJhonathan/Challenge-Oracle-ONE-conversordemoedas/blob/main/out/artifacts/Conversor_jar/Conversor.jar?raw=true">
-Descargar JAR<a> 
-
 _(necesario JRE 8 o superior)_
 
 https://user-images.githubusercontent.com/40052440/226792500-a882da58-52c5-4f67-ad39-3cbef97aed18.mp4

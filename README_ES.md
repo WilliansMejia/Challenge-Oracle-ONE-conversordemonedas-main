@@ -32,9 +32,7 @@ Si es posible convertir monedas, ¿será que también puedo agregar a mi program
 
 <br>
 
-_(necesario JRE 8 o superior)_
 
-https://user-images.githubusercontent.com/40052440/226792500-a882da58-52c5-4f67-ad39-3cbef97aed18.mp4
 
 ### Conversión
 
